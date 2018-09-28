@@ -2,7 +2,7 @@
 
 Progetto per sistemi distribuiti 1 che simula il pattern RCP( Remote procedure Call) utilizzando il broker di messagistica RabbitMQ
 
-Requisiti: 
+#Requisiti: 
 
 Server Apache o simili
 
@@ -14,3 +14,4 @@ Database MYSQL
 
 Server RabbitMQ
 
+#Installazione:
