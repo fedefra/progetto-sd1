@@ -1,0 +1,7 @@
+{
+    "name": "federico/rabbitmq",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.7"
+    }
+}
