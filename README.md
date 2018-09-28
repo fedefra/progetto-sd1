@@ -1,4 +1,4 @@
-# progetto-sd1
+# Progetto-sd1
 
 Progetto per sistemi distribuiti 1 che simula il pattern RCP( Remote procedure Call) utilizzando il broker di messagistica RabbitMQ
 
