@@ -4,14 +4,14 @@ Progetto per sistemi distribuiti 1 che simula il pattern RCP( Remote procedure C
 
 **Requisiti:**
 
-Server Apache o simili
+- Server Apache o simili
 
-PHP 5.6 o superiori
+- PHP 5.6 o superiori
 
-Composer
+- Composer
 
-Database MYSQL
+- Database MYSQL
 
-Server RabbitMQ
+- Server RabbitMQ
 
 **Installazione:**
